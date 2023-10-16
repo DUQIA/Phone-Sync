@@ -1,7 +1,7 @@
 # <img src="Image/logo.ico" width="25" height="25"/>Phone-Sync
 **使用手机浏览器通过wifi，控制电脑**
 - **只支持widows系统，如果二维码显示不正常，选择一个支持Unicode字符的字体**
-- windows 10 需要在命令行的图标处，**右键点击属性，点击字体，将字体设置为MS Gothic**,才能正常显示二维码
+- windows 10 需要在Phone_Sync程序运行的图标处，**右键点击属性，点击字体，将字体设置为MS Gothic**,才能正常显示二维码
 - 这是一个免费的独立应用，不需要解释器就可以运行
 - 需要将手机和电脑都连接到同一个wifi下
 
