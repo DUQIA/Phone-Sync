@@ -4,6 +4,8 @@
 - windows 10 需要在Phone_Sync程序运行的图标处，**右键点击属性，点击字体，将字体设置为MS Gothic**,才能正常显示二维码
 - 这是一个免费的独立应用，不需要解释器就可以运行
 - 需要将手机和电脑都连接到同一个wifi下
+**正常运行**
+<img src="Image/UQ09HO`TW{~RWCB}`4GKA[6.png"/>
 
 # 捐赠
 <img src="Image/1697440892822.jpg"/>
