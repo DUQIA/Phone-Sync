@@ -11,8 +11,8 @@
 - **只支持widows系统，如果二维码显示不正常，请选择一个支持Unicode字符的字体**
 - In Windows 10, you need **to right-click the default value at the icon where the Phone_Sync program is running, click on Font, and set the font to MS Gothic** in order to display the QR code properly.
 - windows 10 需要在Phone_Sync程序运行的图标处，**右键点击默认值，点击字体，将字体设置为MS Gothic**,才能正常显示二维码
-- If you find this app useful, you can [click here to support us](Donation|捐助)
-- 如果你觉得这个应用还不错可以[点击这里，支持一下](Donation|捐助)
+- If you find this app useful, you can [click here to support us](#-donation捐助)
+- 如果你觉得这个应用还不错可以[点击这里，支持一下](#-donation捐助)
 
 **Running normally|正常运行**
 
