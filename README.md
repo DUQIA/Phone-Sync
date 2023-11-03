@@ -16,7 +16,7 @@
 
 **Running normally|正常运行**
 
-- [x] 🖱️⌨️🔊
+✅ <img src="Image/mouse.svg"/><img src="Image/keyboard.svg"/><img src="Image/volume.svg"/>
 <img src="Image/Running normally.png"/>
 
 # <img src="Image/favorite_border_black_24dp.svg" width="25" height="25"/> Donation|捐助
