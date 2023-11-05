@@ -1,4 +1,4 @@
-# <img src="Image/logo.ico" width="25" height="25"/>Phone-Sync
+# <img src="Image/logo.ico" width="25" height="25"/> Phone-Sync
 **This is a practical wireless keyboard and mouse replacement software. It can connect your phone and computer through a wireless network, allowing you to type text, move the cursor, click buttons, and even control system volume on your phone.**
 
 **这是一款实用的无线键鼠替代软件，它可以通过无线网络连接你的手机和电脑，让你可以在手机上输入文字，移动光标，点击按钮，甚至控制系统声音。**
