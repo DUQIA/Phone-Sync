@@ -7,6 +7,7 @@
 [![qrcode](https://img.shields.io/badge/qrcode-7.4.2-red)](https://pypi.org/project/qrcode/) [![pyperclip](https://img.shields.io/badge/pyperclip-1.8.2-red)](https://pypi.org/project/pyperclip/) [![requests](https://img.shields.io/badge/requests-2.31.0-red)](https://pypi.org/project/requests/) [![colorama](https://img.shields.io/badge/colorama-0.4.6-red)](https://pypi.org/project/colorama/) [![MIT](https://img.shields.io/badge/license-MIT-crimson)](https://github.com/DUQIA/Phone-Sync/blob/main/LICENSE)
 
 </div>
+
 **This is a practical wireless keyboard and mouse replacement software. It can connect your phone and computer through a wireless network, allowing you to type text, move the cursor, click buttons, and even control system volume on your phone.**
 
 **这是一款实用的无线键鼠替代软件，它可以通过无线网络连接你的手机和电脑，让你可以在手机上输入文字，移动光标，点击按钮，甚至控制系统声音。**
