@@ -1,10 +1,17 @@
 # <img src="Image/logo.ico" width="25" height="25"/> Phone-Sync
 <div align="center">
   
-[![GitHub version](https://badge.fury.io/gh/DUQIA%2FPhone-Sync.svg)](https://badge.fury.io/gh/DUQIA%2FPhone-Sync) [![NiceGUI](https://img.shields.io/badge/NiceGUI-1.4.2-grue)](https://pypi.org/project/nicegui/) 
-[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue)](https://pypi.org/project/PyAutoGUI/) [![pycaw](https://img.shields.io/badge/pycaw-20230407-blue)](https://pypi.org/project/pycaw/) [![comtypes](https://img.shields.io/badge/comtypes-1.2.0-blue)](https://pypi.org/project/comtypes/)
+[![GitHub version](https://badge.fury.io/gh/DUQIA%2FPhone-Sync.svg)](https://badge.fury.io/gh/DUQIA%2FPhone-Sync)
+[![NiceGUI](https://img.shields.io/badge/NiceGUI-1.4.2-grue)](https://pypi.org/project/nicegui/) 
+[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue)](https://pypi.org/project/PyAutoGUI/)
+[![pycaw](https://img.shields.io/badge/pycaw-20230407-blue)](https://pypi.org/project/pycaw/)
+[![comtypes](https://img.shields.io/badge/comtypes-1.2.0-blue)](https://pypi.org/project/comtypes/)
 
-[![qrcode](https://img.shields.io/badge/qrcode-7.4.2-red)](https://pypi.org/project/qrcode/) [![pyperclip](https://img.shields.io/badge/pyperclip-1.8.2-red)](https://pypi.org/project/pyperclip/) [![requests](https://img.shields.io/badge/requests-2.31.0-red)](https://pypi.org/project/requests/) [![colorama](https://img.shields.io/badge/colorama-0.4.6-red)](https://pypi.org/project/colorama/) [![MIT](https://img.shields.io/badge/license-MIT-crimson)](https://github.com/DUQIA/Phone-Sync/blob/main/LICENSE)
+[![qrcode](https://img.shields.io/badge/qrcode-7.4.2-red)](https://pypi.org/project/qrcode/)
+[![pyperclip](https://img.shields.io/badge/pyperclip-1.8.2-red)](https://pypi.org/project/pyperclip/)
+[![requests](https://img.shields.io/badge/requests-2.31.0-red)](https://pypi.org/project/requests/)
+[![colorama](https://img.shields.io/badge/colorama-0.4.6-red)](https://pypi.org/project/colorama/)
+[![MIT](https://img.shields.io/badge/license-MIT-crimson)](https://github.com/DUQIA/Phone-Sync/blob/main/LICENSE)
 
 </div>
 
