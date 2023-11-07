@@ -1,4 +1,10 @@
 # <img src="Image/logo.ico" width="25" height="25"/> Phone-Sync
+<div align="center">
+  
+[![GitHub version](https://badge.fury.io/gh/DUQIA%2FPhone-Sync.svg)](https://badge.fury.io/gh/DUQIA%2FPhone-Sync) [![NiceGUI](https://img.shields.io/badge/NiceGUI-1.4.2-grue)](https://pypi.org/project/nicegui/) 
+[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue)](https://pypi.org/project/PyAutoGUI/) [![pycaw](https://img.shields.io/badge/pycaw-20230407-blue)](https://pypi.org/project/pycaw/) [![comtypes](https://img.shields.io/badge/comtypes-1.2.0-blue)](https://pypi.org/project/comtypes/) [![qrcode](https://img.shields.io/badge/qrcode-7.4.2-red)](https://pypi.org/project/qrcode/) [![pyperclip](https://img.shields.io/badge/pyperclip-1.8.2-red)](https://pypi.org/project/pyperclip/) [![requests](https://img.shields.io/badge/requests-2.31.0-red)](https://pypi.org/project/requests/) [![colorama](https://img.shields.io/badge/colorama-0.4.6-red)](https://pypi.org/project/colorama/)
+
+</div>
 **This is a practical wireless keyboard and mouse replacement software. It can connect your phone and computer through a wireless network, allowing you to type text, move the cursor, click buttons, and even control system volume on your phone.**
 
 **这是一款实用的无线键鼠替代软件，它可以通过无线网络连接你的手机和电脑，让你可以在手机上输入文字，移动光标，点击按钮，甚至控制系统声音。**
